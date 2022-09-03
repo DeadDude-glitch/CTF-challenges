@@ -1,0 +1,5 @@
+we found this file for a paranoid criminal, he is so paranoid that he uses AES encryption and passwords longer than 64 characters
+can you read its contents?
+
+we could only find the sha1 checksum of the password but unable to crack it
+706b4838613041714e62486364773847726d5370
