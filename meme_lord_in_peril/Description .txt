@@ -1,1 +1,7 @@
 I created a meme and to prevent it from getting stolen I created an archive file with a password to hide it, unfortunately I forgot the password and the hint didn't help, can you restore it? 
+
+I wrote it in a weird way which is by replacing some characters with signs and numbers or just makes them capitals to strengthen it
+'a' -> 'a' , 'A' , '4' , '@'
+'o' -> 'O' , 'o' , '0'
+'r' -> 'R' , 'r'
+'s' -> 's' , 'S' , '5' , '$'
