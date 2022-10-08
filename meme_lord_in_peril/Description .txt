@@ -5,3 +5,4 @@ I wrote it in a weird way which is by replacing some characters with signs and n
 'o' -> 'O' , 'o' , '0'
 'r' -> 'R' , 'r'
 's' -> 's' , 'S' , '5' , '$'
+'p' -> 'p'  'P'
